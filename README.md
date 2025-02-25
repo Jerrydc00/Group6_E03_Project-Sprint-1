@@ -1,4 +1,4 @@
-# Group6_E03_Project-Sprint-1
+# Group6_E03_Project-Sprint-2
 
 This project is designed for quick implementation with minimal effort. You only need to copy and paste the provided code into a compiler or code editor to run it.
 
